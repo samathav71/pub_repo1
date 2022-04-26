@@ -30,6 +30,7 @@
         <artifactId>maven-surefire-plugin</artifactId>
         <version>3.0.0-M6</version>
         	<configuration>
+        	
        <!-- 		<properties>
             		<property>
               			<name>usedefaultlisteners</name>
