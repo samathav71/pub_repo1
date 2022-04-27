@@ -6,7 +6,7 @@ public class class1 {
 
 	@Test
 	public void method1 () {
-		System.out.println("testing maven project: Method11");
+		System.out.println("testing maven project: Method11.");
 	}
 	
 	@Test
