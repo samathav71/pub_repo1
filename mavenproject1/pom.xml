@@ -51,7 +51,7 @@
           		<parallel>tests</parallel>
           		<threadCount>1</threadCount>
           		<suiteXmlFiles>
-            		<suiteXmlFile>C:\Users\samat\eclipse-workspace\mavenproject1\testng.xml</suiteXmlFile>
+            		<suiteXmlFile>C:\Users\samat\Git\repo1\mavenproject1\testng.xml</suiteXmlFile>
           		</suiteXmlFiles>
         	</configuration>
       	</plugin>
