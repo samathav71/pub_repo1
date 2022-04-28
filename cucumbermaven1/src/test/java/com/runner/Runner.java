@@ -9,8 +9,8 @@ import io.cucumber.junit.CucumberOptions;
 				 glue= {"com.stepDefinition"},
 				 monochrome=true, 
 				 plugin= {"html:reports\\htmlReports\\cucumber.html"},
-				 dryRun= false,
-				 strict= true)
+				 dryRun= false
+				 )
 
 public class Runner {
 
