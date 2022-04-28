@@ -40,6 +40,5 @@ public class LoginSteps {
 	public void user_should_login_and_user_should_land_on_homepage() {
 		System.out.println("Step4: User should login and be on the home page");
 		driver.quit();
-	}
-	
+	}	
 }

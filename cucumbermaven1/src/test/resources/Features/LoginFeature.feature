@@ -13,4 +13,3 @@ Given User is on login page
 When user enters username and password
 And clicks on the login button
 Then User should login and user should land on Homepage
-
